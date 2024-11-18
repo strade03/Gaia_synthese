@@ -20,6 +20,7 @@ python 3.12 minimum
 
 Télécharger la dernière version 
 https://www.python.org/downloads/
+
 demander à la DSI son installation si vous n'avez pas les droits.
 
 --------------------------------------------------------------
