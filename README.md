@@ -15,14 +15,16 @@ Exemple : PARCOURS MATERNELLE DES GESTES POUR ENSEIGNER 6H
 
 --------------------------------------------------------------
 Prérequis :
+--------------------------------------------------------------
 python 3.12 minimum 
 
 Télécharger la dernière version 
 https://www.python.org/downloads/
-
 demander à la DSI son installation si vous n'avez pas les droits.
+
 --------------------------------------------------------------
 Configuration avant de commencer :
+--------------------------------------------------------------
 
 Ouvrir un fenêtre "invite de commande" en tapant  cmd dans la barre de recherche Windows
 
