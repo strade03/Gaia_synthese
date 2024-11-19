@@ -34,8 +34,6 @@ Ouvrir un fenêtre "invite de commande" en tapant  cmd dans la barre de recherch
 pour installer les dépendances, saisir :
 pip install -r requirements.txt
 
-Maintenant, vous pouvez utiliser GAIA_synthese_v1.0 en double cliquant dessus
-
 ----------------------------------------------------------------
 Comment l'Utiliser
 ----------------------------------------------------------------
