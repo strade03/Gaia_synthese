@@ -41,8 +41,8 @@ def s(step,total_steps,bar_width=60,title=A,print_perc=J):
 		if C>1e2:C=1e2
 		B+=' {:6.2f}'.format(C)+' %'
 	sys.stdout.write('\r'+B);sys.stdout.flush()
-t='https://gaia.phm.education.gouv.fr/gaia/gacmfgest/animPedagogiques/liste_dispoAnim.jsp'
-u='https://gaia.phm.education.gouv.fr/gaia/gacmfgest/dispo/arbre_dispositif.jsp?cCode='
+t='https://gaia.in.phm.education.gouv.fr/gaia/gacmfgest/animPedagogiques/liste_dispoAnim.jsp'
+u='https://gaia.in.phm.education.gouv.fr/gaia/gacmfgest/dispo/arbre_dispositif.jsp?cCode='
 v={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0'}
 G=[[K,'Circo','titre dispo.']]
 N=[[K,V,j,"nombre d'heures"]]
