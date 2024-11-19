@@ -1,7 +1,9 @@
-# Gaia_synthese
+# Gaia_synthese, GAIA_planning
 
 Cette application fait une synthèse du plan de formations issu de GAIA (GAIA - Accès gestionnaire (Orange))
 
+GAIA_synthese : Extraction du plan de formation, du planning et des inscriptions
+GAIA_planning : Version light qui ne fait que l'extraction du planning de formation
 --------------------------------------------------------------
 Une structure département a été mise en place avec une charte de nommage :
 
@@ -32,6 +34,14 @@ Ouvrir un fenêtre "invite de commande" en tapant  cmd dans la barre de recherch
 pour installer les dépendances, saisir :
 pip install -r requirements.txt
 
-Maintenant, vous pouvez utiliser GAIA_scrap_v1.0 en double cliquant dessus
+Maintenant, vous pouvez utiliser GAIA_synthese_v1.0 en double cliquant dessus
 
 ----------------------------------------------------------------
+Comment l'Utiliser
+----------------------------------------------------------------
+
+Ouvrir un session GAIA dans Firefox 
+ATTENTION ne fonctionne qu'avec Firefox
+
+Executer GAIA_synthese ou GAIA_planning en double cliquant sur le programme
+La synthèse se trouve ensuite dans le dossier Output
