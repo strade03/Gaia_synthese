@@ -18,7 +18,7 @@ Exemple : PARCOURS MATERNELLE DES GESTES POUR ENSEIGNER 6H
 --------------------------------------------------------------
 Prérequis :
 --------------------------------------------------------------
-python 3.12 minimum 
+python 3.1 minimum 
 
 Télécharger la dernière version 
 https://www.python.org/downloads/
