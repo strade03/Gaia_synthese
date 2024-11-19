@@ -5,7 +5,7 @@ Cette application fait une synthèse du plan de formations issu de GAIA (GAIA - 
 GAIA_synthese : Extraction du plan de formation, du planning et des inscriptions
 GAIA_planning : Version light qui ne fait que l'extraction du planning de formation
 --------------------------------------------------------------
-Une structure département a été mise en place avec une charte de nommage :
+Une structure départementale a été mise en place avec une charte de nommage :
 
 Libellé des dispositifs :  Nom_du_Bassin N°_circo Nom_dispo
 Le N°_circo n'est pas obligatoire.
