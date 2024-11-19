@@ -17,7 +17,8 @@ R=float
 L='Dispositifs'
 K='N° dispo.'
 G='Modules'
-F=False
+F=True
+X=False
 D=print
 B='Dates'
 A=''
@@ -113,6 +114,6 @@ if __name__=='__main__':
 	if not I.exists():I.mkdir(parents=F)
 	I=M('output')
 	if not I.exists():I.mkdir(parents=F)
-	D();A3=e(s,from_disk=F);A1(A3)
-	for(A4,A5)in h(H[1:]):r(A4+1,T(H[1:]),title='Lecture des modules de formation (MAJ dates)        ');f=A5[0];A6=t+f;A7=e(A6,from_disk=F);A2(A7,f)
+	D();A3=e(s,from_disk=X);A1(A3)
+	for(A4,A5)in h(H[1:]):r(A4+1,T(H[1:]),title='Lecture des modules de formation (MAJ dates)        ');f=A5[0];A6=t+f;A7=e(A6,from_disk=X);A2(A7,f)
 	D();D();A0('output/synthese_planning.xlsx');D();D("Traitement terminé, le fichier de synthèse se trouve dans le dossier 'output'");g('Appuyez sur Entrée pour fermer le programme...')
