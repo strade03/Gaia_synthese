@@ -29,7 +29,8 @@ demander à la DSI son installation si vous n'avez pas les droits.
 Configuration avant de commencer :
 --------------------------------------------------------------
 
-Ouvrir un fenêtre "invite de commande" en tapant  cmd dans la barre de recherche Windows
+Ouvrir dans le navigateur de fichiers, le dossier avec les fichiers téléchargés
+Ouvrir un fenêtre "invite de commande" en tapant  cmd dans la barre d'adresse du navigateur de fichiers.
 
 pour installer les dépendances, saisir :
 pip install -r requirements.txt
