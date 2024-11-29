@@ -3,14 +3,12 @@
 
 Cette application fait une synthèse du plan de formations issu de GAIA (GAIA - Accès gestionnaire (Orange))
 
-GAIA_synthese : Extraction du plan de formation, du planning et des inscriptions
-GAIA_planning : Version light qui ne fait que l'extraction du planning de formation
+GAIA_planning : Extraction du planning de formation
 
 ----------------------------------------------------------------
 Téléchagement
 ----------------------------------------------------------------
 
-- [GAIA_synthese_v1.0](http://info.montlucon.free.fr/Logiciels/gaia/GAIA_synthese_v1.0.exe)
 - [GAIA_planning_v1.0](http://info.montlucon.free.fr/Logiciels/gaia/GAIA_planning_v1.0.exe)
 
 ----------------------------------------------------------------
