@@ -1,4 +1,4 @@
-# Gaia_synthese, Gaia_planning
+# Gaia_planning
 ----------------------------------------------------------------
 
 Cette application fait une synthèse du plan de formations issu de GAIA (GAIA - Accès gestionnaire (Orange))
